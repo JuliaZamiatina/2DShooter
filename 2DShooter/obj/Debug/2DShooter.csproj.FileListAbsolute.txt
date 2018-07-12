@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\2DShooter\2DShooter\bin\Debug\2DShooter.exe.config
+C:\Users\Asus\source\repos\2DShooter\2DShooter\bin\Debug\2DShooter.exe
+C:\Users\Asus\source\repos\2DShooter\2DShooter\bin\Debug\2DShooter.pdb
+C:\Users\Asus\source\repos\2DShooter\2DShooter\obj\Debug\2DShooter.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\2DShooter\2DShooter\obj\Debug\_2DShooter.Form1.resources
+C:\Users\Asus\source\repos\2DShooter\2DShooter\obj\Debug\_2DShooter.Properties.Resources.resources
+C:\Users\Asus\source\repos\2DShooter\2DShooter\obj\Debug\2DShooter.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\2DShooter\2DShooter\obj\Debug\2DShooter.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\2DShooter\2DShooter\obj\Debug\2DShooter.exe
+C:\Users\Asus\source\repos\2DShooter\2DShooter\obj\Debug\2DShooter.pdb
+C:\Users\Asus\source\repos\2DShooter\2DShooter\obj\Debug\_2DShooter.Properties.Resource.resources
